@@ -6,6 +6,6 @@ class Persona{
 //Paso 2 del procedimiento
 //Paso 3 del procedimiento
 //Paso 4 del procedimiento
-
+//Paso 5 del procedimiento
 
 }
