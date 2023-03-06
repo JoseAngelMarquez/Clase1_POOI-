@@ -4,4 +4,8 @@ class Persona{
 //Se empezará con el procedimiento
 //Paso 1 del procedimiento
 //Paso 2 del procedimiento
+//Paso 3 del procedimiento
+
+
+
 }
