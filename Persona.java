@@ -7,5 +7,6 @@ class Persona{
 //Paso 3 del procedimiento
 //Paso 4 del procedimiento
 //Paso 5 del procedimiento
-
+//Parte final del programa
 }
+
